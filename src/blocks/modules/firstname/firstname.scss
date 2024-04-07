@@ -1,0 +1,19 @@
+.test {
+    min-height: 600px;
+}
+
+.pilot {
+    display: block;
+    width: 500px;
+    height: 300px;
+    span.pilot-name {
+        font-family: 'NeonFeel';
+        font-size: 48px;
+        color: $Ferrari;
+    }
+    span.pilot-lastname {
+        font-family: 'Concert One';
+        font-size: 58px;
+        color: $Ferrari;
+    }
+}

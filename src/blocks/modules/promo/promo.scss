@@ -1,0 +1,13 @@
+.promo {
+    min-height: calc(100vh - 150px);
+    background: url('../img/firstscreen_bg.jpg') center (center / cover) no-repeat;
+    padding: 75px 50px;
+    &__title {
+        color: #fff;
+        text-align: center;;
+    }
+    &__subtitle {
+        color: #fff;
+        text-align: center;
+    }
+}
